@@ -12,7 +12,20 @@ import java.io.Serializable;
  */
 public class Student implements Serializable {
 
+
     public Student() {
 
     }
+
+    private String id;
+
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 }
+
