@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.wisdsoft</groupId>
-    <artifactId>artcolor</artifactId>
+    <artifactId>elective.system</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
@@ -45,11 +45,6 @@
             <groupId>org.kohsuke.stapler</groupId>
             <artifactId>json-lib</artifactId>
             <version>2.1-rev6</version>
-        </dependency>
-        <dependency>
-            <groupId>com.local.yiban</groupId>
-            <artifactId>YBOpenApi</artifactId>
-            <version>1.0.0</version>
         </dependency>
         <!-- 时间操作组件 -->
         <dependency>
